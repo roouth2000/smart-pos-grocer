@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "Vegetables",
+        "description": "Fresh farm vegetables"
+    },
+    {
+        "id": "2",
+        "name": "Fruits",
+        "description": "Organic fruits"
+    }
+]
